@@ -521,6 +521,9 @@ body {
 .article-date {
   float: left;
 }
+.article-updated {
+  color: #999;
+}
 .article-category {
   float: left;
   line-height: 1em;
